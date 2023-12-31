@@ -1,7 +1,18 @@
-# Plant Electrophysiology Project
-## (CS-299 Project, Prof. Subramanian Sankaranarayanan, IITGN)  
-### Members: Birudugadda Srivibhav, Bhoumik Patidar
+# Machine Learning Based Plant Electrophysiological Signal Study: CS299 Project
 
-We have built a machine-learning model to detect and analyze specific regions in signals that correspond to plant wound responses. 
+This repository encompasses an interdisciplinary project conducted as part of the CS299 course in the 3rd semester. The project aimed to delve into the electrophysiological responses of tobacco plants, specifically focusing on wound-induced variation potentials, by integrating machine learning, plant physiology, and signal processing.
 
-This project delves into the interdisciplinary realm of biology, electrical engineering, and computer science to explore and understand the electrophysiological responses of tobacco plants to stimuli, particularly wound-induced variation potentials. The endeavour involved the cultivation of tobacco plants, the development of an electrophysiological measurement device, and the use of a DAQ system for data collection. Despite challenges faced in the physical realization of the device, experiments were conducted to measure variation potentials resulting from plant wounding. Subsequently, collected data were processed and analyzed using signal processing techniques, and a Support Vector Machine (SVM) model was developed to identify regions within the signals corresponding to plant wound responses. This project serves as an interdisciplinary approach, demonstrating the integration of experimental biology, electrical engineering, and computational methods to study and interpret plant electrophysiology.
+## Project Highlights
+
+### Interdisciplinary Exploration
+- Explored electrophysiological responses of tobacco plants to stimuli.
+- Integrated machine learning, plant physiology, and signal processing methodologies.
+- Targeted understanding variation potentials induced by plant injuries.
+
+### Signal Processing and Machine Learning
+- Utilized signal measurements and processing techniques for plant electrical data.
+- Developed a precise Support Vector Machine (SVM)-based ML algorithm.
+- Algorithm accurately detects the onset of plant injury and assesses variation potential duration.
+
+### Course Context
+This project was completed as part of the CS299 course, focusing on interdisciplinary applications in the 3rd semester. It stands as an example of combining multiple disciplines to understand plant behavior and electrical responses to stimuli.
