@@ -25,7 +25,6 @@ This project takes an interdisciplinary approach, integrating experimental biolo
   - [Algorithm Workflow: Detection of Injury Onset and Variation Potential Duration](#algorithm-workflow-detection-of-injury-onset-and-variation-potential-duration)
   - [End-to-End Testing on Unseen Data](#end-to-end-testing-on-unseen-data)
 - [Acknowledgements](#acknowledgements)
-- [Images](#images)
 
 ## Experimental Plant Distribution and Growing Conditions
 
